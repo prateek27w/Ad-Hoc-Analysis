@@ -26,7 +26,7 @@ Atliq Hardware is a well-established manufacturer of computer peripherals, inclu
 The dataset used in this project contains information related to sales, products, and customer interactions. It includes key metrics that facilitate detailed analysis of Atliq's market performance.
 
 ## Tools Used
-- **SQL**: For querying the dataset and extracting insights.
+- **MySQL**: For querying the dataset and extracting insights.
 - **Power BI**: For data visualization and presenting results.
 
 ## Ad-hoc Requests
