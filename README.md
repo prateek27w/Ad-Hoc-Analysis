@@ -28,7 +28,6 @@ The dataset used in this project contains information related to sales, products
 ## Tools Used
 - **SQL**: For querying the dataset and extracting insights.
 - **Power BI**: For data visualization and presenting results.
-- **Python**: (Optional) for additional data manipulation and analysis if required.
 
 ## Ad-hoc Requests
 This project addresses the following ten ad-hoc requests:
